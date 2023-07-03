@@ -1,4 +1,4 @@
-package com.automationanywhere.googledrive;
+package com.automationanywhere.triggerasservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

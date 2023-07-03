@@ -1,13 +1,13 @@
-package com.automationanywhere.googledrive;
+package com.automationanywhere.triggerasservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class GoogledriveApplication {
+public class WebHookApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(GoogledriveApplication.class, args);
+		SpringApplication.run(WebHookApplication.class, args);
 	}
 
 }
